@@ -1,0 +1,30 @@
+Package: kippcolors
+Type: Package
+Title: KIPP compliant colors from [brand
+        guidelines](http://www.kipp.org/brand)
+Version: 0.1.0
+Author: Chris Haid
+Maintainer: Chris Haid <chaid@kippchicago.org>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+#Roxygen: list(markdown = TRUE)
+RoxygenNote: 6.0.1.9000
+Imports: scales, grDevices, viridis, ggplot2, tidyverse, crayon
+URL: https://github.com/kippchicago/kippcolors
+BugReports: https://github.com/kippchicago/kippcolors/issues
+RemoteType: github
+RemoteHost: api.github.com
+RemoteRepo: kippcolors
+RemoteUsername: kippchicago
+RemoteRef: master
+RemoteSha: 1e204c62518df0fde0d35695dbef1774be4d3a61
+GithubRepo: kippcolors
+GithubUsername: kippchicago
+GithubRef: master
+GithubSHA1: 1e204c62518df0fde0d35695dbef1774be4d3a61
+NeedsCompilation: no
+Packaged: 2018-12-20 12:32:12 UTC; chrishaid
+Built: R 3.5.1; ; 2018-12-20 12:32:14 UTC; unix

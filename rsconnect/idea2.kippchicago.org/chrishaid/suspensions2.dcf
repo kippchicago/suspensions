@@ -1,0 +1,13 @@
+name: suspensions2
+title: Suspensions
+username: chrishaid
+account: chrishaid
+server: idea2.kippchicago.org
+hostUrl: https://idea2.kippchicago.org/__api__
+appId: 23
+bundleId: 294
+url: https://idea2.kippchicago.org/suspensions/
+when: 1569340822.94998
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .Rprofile|dl_suspensions.rda|shiny_bookmarks/494880e6ba8fc2cb/input.rds

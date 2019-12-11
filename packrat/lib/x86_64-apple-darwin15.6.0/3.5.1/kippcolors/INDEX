@@ -1,0 +1,8 @@
+kipp_colors             KIPP Colors
+kipp_pal                KIPP palettes with ramped colors
+kipp_palettes           KIPP Color Palettes
+scale_color_kipp        Setup color palette for ggplot2
+scale_fill_kipp         #' Setup fill palette for ggplot2
+theme_kipp_light        Theme inspired by kipp.org/brand
+use_kipp_chicago_css    Creates www/kippcolors_*.css for using KIPP
+                        colors with 'shinydashboard' apps
